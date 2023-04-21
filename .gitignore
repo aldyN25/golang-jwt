@@ -1,0 +1,7 @@
+/vendor
+/logs/*.log
+/logs/screening/*.log
+/logs/services/*/*.log
+#/cmd/*
+go.sum
+.env
